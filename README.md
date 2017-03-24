@@ -13,6 +13,6 @@ To use any of the following projects the user must use the current master of [Co
 
 Description of each project
 
-Simple VDMA: Used to demonstrate transferring video frames between two VDMA cores within the FPGA. To use this the Pynq software must have support for VDMA. A notebook demonstrating this simple VDMA can be found here [pynq notebooks](https://github.com/CospanDesign/pynq-notebooks)
-Simple HLS VDMA: Used to demonstrate a simple HLS core (the core only passes through the frames). To use this the Pynq software must have support for VDMA. A notebook demonstrating the Simple HLS VDMA pass through can be found here [pynq notebooks](https://github.com/CospanDesign/pynq-notebooks)
-HLS Corners: Used to demonstrate corner detection using an HLS core. A notebook demonstrating HLS Corners can be found here [pynq notebooks](https://github.com/CospanDesign/pynq-notebooks)
+* Simple VDMA: Used to demonstrate transferring video frames between two VDMA cores within the FPGA. To use this the Pynq software must have support for VDMA. A notebook demonstrating this simple VDMA can be found here [pynq notebooks](https://github.com/CospanDesign/pynq-notebooks)
+* Simple HLS VDMA: Used to demonstrate a simple HLS core (the core only passes through the frames). To use this the Pynq software must have support for VDMA. A notebook demonstrating the Simple HLS VDMA pass through can be found here [pynq notebooks](https://github.com/CospanDesign/pynq-notebooks)
+* HLS Corners: Used to demonstrate corner detection using an HLS core. A notebook demonstrating HLS Corners can be found here [pynq notebooks](https://github.com/CospanDesign/pynq-notebooks)
